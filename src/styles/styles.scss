@@ -1,0 +1,11 @@
+// Write your overrides
+.tox-tinymce-aux {
+  position: relative !important;
+  z-index: 2600 !important;
+}
+.apexcharts-tooltip.apexcharts-theme-light {
+  background: black !important;
+}
+.apexcharts-tooltip.apexcharts-theme-light .apexcharts-tooltip-title {
+  background: black !important;
+}
